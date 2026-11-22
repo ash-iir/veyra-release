@@ -1,9 +1,9 @@
 {
-  "versionName": "0.3.0",
-  "versionCode": 4,
-  "apk": "apk/veyra-4.apk",
-  "sha256": "3e6c3e2ccefd17de4395e764f986e145b714c9c642960347d88fb67f09cb8ede",
-  "size": 11531150,
-  "notes": "Veyra 0.3.0: updates now come straight from this repo's latest.json (SHA-256 checked); long conversations survive server reconnects (context compression + session resumption, RECONNECTING indicator, context meter); Standard/Accessibility/Root access levels with their own instructions and tool sets, Root mode switch in Settings; Veyra can show charts, tables, timelines, metrics, maps and tap buttons on screen while she talks; plus long/short-term memory and bugfix hardening.",
-  "date": "2026-11-22"
+  "versionName": "0.3.1",
+  "versionCode": 5,
+  "apk": "apk/veyra-5.apk",
+  "sha256": "64cea987599a1c485c61f6f66a741ed8a90bca1a2714b84f46ac97587441bd8b",
+  "size": 11596729,
+  "notes": "Veyra 0.3.1: ask her for root and she actually tries (superuser prompt, safe command checks, audit log); shorter, faster prompts; phone tools (call, SMS, read SMS/call log, alarms/timers, web, media, volume, flashlight, battery, settings panels); she can update herself with root once you allow it; Settings reorganised with Updates on top and a Permissions section.",
+  "date": "2026-11-23"
 }
