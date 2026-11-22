@@ -1,8 +1,8 @@
 {
   "versionName": "0.2.0",
-  "versionCode": 3,
-  "apk": "apk/veyra-3.apk",
-  "sha256": "043acd1bb563e96911bae8fc8d09409161b8c67574195f03a1a0181c650884e9",
-  "notes": "Bugfix build: no crash when stopping a session, clear error if the mic stops or the API key is rejected, audio mode restored correctly after a failed connect, safer root shell runner.",
+  "versionCode": 4,
+  "apk": "apk/veyra-4.apk",
+  "sha256": "086b99757e2006a99827be4cd95bbb6e393e53dcc12c45eae0fe4806023c11e8",
+  "notes": "Memory: Veyra now remembers you across sessions (remember / recall / forget by voice), picks up recent conversation after a reconnect, and Settings → Veyra's memory lets you view, edit, pin or wipe everything. Includes all 0.2.0 (3) bugfixes.",
   "date": "2026-11-22"
 }
