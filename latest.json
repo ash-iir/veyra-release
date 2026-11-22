@@ -1,9 +1,9 @@
 {
-  "versionName": "0.3.1",
-  "versionCode": 5,
-  "apk": "apk/veyra-5.apk",
-  "sha256": "64cea987599a1c485c61f6f66a741ed8a90bca1a2714b84f46ac97587441bd8b",
-  "size": 11596729,
-  "notes": "Veyra 0.3.1: ask her for root and she actually tries (superuser prompt, safe command checks, audit log); shorter, faster prompts; phone tools (call, SMS, read SMS/call log, alarms/timers, web, media, volume, flashlight, battery, settings panels); she can update herself with root once you allow it; Settings reorganised with Updates on top and a Permissions section.",
+  "versionName": "0.3.3",
+  "versionCode": 7,
+  "apk": "apk/veyra-7.apk",
+  "sha256": "d0c40b5768b8a3f4aff93f1562fcc118b175cb104daadf6f054a2ad39f015b61",
+  "size": 11647616,
+  "notes": "Veyra 0.3.3: does tasks thoroughly (checks several sources, uses root when you allow it, tells you what she's doing step by step); full phone health check tool; battery charging bug fixed; memory window 110k instead of 25k; optional Extended Thinking model; keeps listening when you leave the app (notification with Stop); can be set as the phone's default assistant; self-update through accessibility with your consent.",
   "date": "2026-11-23"
 }
