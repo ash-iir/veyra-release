@@ -1,9 +1,9 @@
 {
-  "versionName": "0.4.1",
-  "versionCode": 8,
-  "apk": "apk/veyra-8.apk",
-  "sha256": "7c28f15307849c68f8d00c1ac73c66dec4830e6d5c84a4f9bf68dbbe15ad54d9",
-  "size": 11664059,
-  "notes": "Veyra 0.4.1: does tasks thoroughly (checks several sources, uses root when you allow it, tells you what she's doing step by step); full phone health check tool; battery charging bug fixed; memory window 110k instead of 25k; optional Extended Thinking model; keeps listening when you leave the app (notification with Stop); can be set as the phone's default assistant; self-update through accessibility with your consent. Plus safer typed root actions.",
+  "versionName": "0.5.0",
+  "versionCode": 9,
+  "apk": "apk/veyra-9.apk",
+  "sha256": "1fdb5ebdd988ecfe135d79a7f2420c3c33a2fbd81181e37aa5ad4a5cb7f5d43e",
+  "size": 11739423,
+  "notes": "Veyra 0.5.0: root first — with root granted, screen reading, tapping, typing, scrolling, opening apps and SMS/call log go through one warm root shell (much faster, works in every app); new 'look' takes a real screenshot so Veyra can see the screen. Opt-in wake word 'Hey Veyra' (on-device, Settings → Wake word). Extended Thinking model shows THINKING while it works. Safer updates: signing certificate, https-only, no downgrade, resumable downloads.",
   "date": "2026-11-23"
 }
