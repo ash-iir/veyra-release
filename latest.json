@@ -1,9 +1,9 @@
 {
-  "versionName": "0.6.4",
-  "versionCode": 23,
-  "apk": "apk/veyra-23.apk",
-  "sha256": "8b218745ef7cdbe89e55b1f197785a3e6f682a19f265d677f571112bfbaea3d0",
-  "size": 11943347,
-  "notes": "Root ho to Veyra saari permissions khud le leti hai.",
+  "versionName": "0.6.5",
+  "versionCode": 24,
+  "apk": "apk/veyra-24.apk",
+  "sha256": "91e5bfd68d18c8c496c51f8009ea95c14577a76a8629deac5b9cd7c71647a1ce",
+  "size": 11943343,
+  "notes": "Background mein har app ki nayi notifications aur emails dekhti hai. Email watch settings hata di.",
   "date": "2026-11-23"
 }
