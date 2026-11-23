@@ -1,9 +1,9 @@
 {
-  "versionName": "0.6.3",
-  "versionCode": 22,
-  "apk": "apk/veyra-22.apk",
-  "sha256": "4131fcdbd742587e76d5c23ba379b0ddb9427d5af913ac2dfb3129e18d5d0319",
+  "versionName": "0.6.4",
+  "versionCode": 23,
+  "apk": "apk/veyra-23.apk",
+  "sha256": "8b218745ef7cdbe89e55b1f197785a3e6f682a19f265d677f571112bfbaea3d0",
   "size": 11943347,
-  "notes": "Naya Settings design (categories + pages). Greeting ab har baar alag.",
+  "notes": "Root ho to Veyra saari permissions khud le leti hai.",
   "date": "2026-11-23"
 }
