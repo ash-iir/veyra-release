@@ -1,9 +1,9 @@
 {
-  "versionName": "0.5.9",
-  "versionCode": 18,
-  "apk": "apk/veyra-18.apk",
-  "sha256": "7c1adcf6be89e8c46cb75064826e344b4120b5ad00c3cade2fa741cb39764837",
+  "versionName": "0.6.0",
+  "versionCode": 19,
+  "apk": "apk/veyra-19.apk",
+  "sha256": "3ce1cf3f2692afb5305e984b8ecc5ddb079957ac398502cc6f95570c945f01c5",
   "size": 11910575,
-  "notes": "Email watch (Settings > Email watch) and app watch: Veyra speaks only important items, keeps them while you're busy. Encrypted storage. Wake word uses less battery. Root: move Veyra to system. Unlock tool removed.",
+  "notes": "Update check never misses a fresh release. 20 new root actions: DND, dark mode, NFC, volume, refresh rate, screen timeout, screenshot, battery/network/top apps info, kill background, clear caches, app permissions, restrict background, clear data, uninstall.",
   "date": "2026-11-23"
 }
