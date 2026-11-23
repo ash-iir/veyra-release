@@ -1,7 +1,7 @@
 {
   "versionName": "0.5.9",
   "versionCode": 18,
-  "apk": "apk/veyra-17.apk",
+  "apk": "apk/veyra-18.apk",
   "sha256": "7c1adcf6be89e8c46cb75064826e344b4120b5ad00c3cade2fa741cb39764837",
   "size": 11910575,
   "notes": "Email watch (Settings > Email watch) and app watch: Veyra speaks only important items, keeps them while you're busy. Encrypted storage. Wake word uses less battery. Root: move Veyra to system. Unlock tool removed.",
