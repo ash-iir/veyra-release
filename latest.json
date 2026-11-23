@@ -1,9 +1,9 @@
 {
-  "versionName": "0.5.4",
-  "versionCode": 13,
-  "apk": "apk/veyra-13.apk",
-  "sha256": "07bdfa39aa344a924f36d7d28e0d10b0f8834a1814a4eafc88235b67b28d9aaa",
-  "size": 11828463,
-  "notes": "Veyra 0.5.4: background checks can no longer crash the app and stop in time; an update that arrives while you're talking is told right away; the floating orb can be dragged and gently pulses.",
+  "versionName": "0.5.5",
+  "versionCode": 14,
+  "apk": "apk/veyra-14.apk",
+  "sha256": "aff14fab0a90e77d46bc6b555c31b3b07fd13b027f2d8e6b7b4a4b3e2d95c6c6",
+  "size": 11844891,
+  "notes": "Veyra 0.5.5: coding works without opening Termux (opencode in the background, or a built-in coder if opencode can't run); 'is this app installed' checks the real app list; saying goodbye or 'ab jao' now reliably ends the session.",
   "date": "2026-11-23"
 }
