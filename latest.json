@@ -1,9 +1,9 @@
 {
-  "versionName": "0.5.6",
-  "versionCode": 15,
-  "apk": "apk/veyra-15.apk",
-  "sha256": "f60d285c28f899b9f97a40be41a292796f7cafcf87d08f0fa7acf0ba2185aa9b",
-  "size": 11844891,
-  "notes": "Veyra 0.5.6: 'Check for update' always sees the newest release; reading the screen no longer turns on auto-rotate. Includes 0.5.5: background coding without Termux, real installed-app check, reliable session end.",
+  "versionName": "0.5.7",
+  "versionCode": 16,
+  "apk": "apk/veyra-16.apk",
+  "sha256": "51ba1198ac19116a06b6b253e10633658182ceab48cbe784c204fe305de41248",
+  "size": 11845387,
+  "notes": "Veyra 0.5.7: the floating orb and small card close when the session ends; Veyra talks more like a person: calm, frank, laughs, thinks out loud, and adapts to you.",
   "date": "2026-11-23"
 }
