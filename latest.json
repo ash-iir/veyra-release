@@ -1,9 +1,9 @@
 {
-  "versionName": "0.5.3",
-  "versionCode": 12,
-  "apk": "apk/veyra-12.apk",
-  "sha256": "8e7a699ee128bd26e91ae25070e62bf274a5809270e1062114edaec1c3004add",
-  "size": 12179685,
-  "notes": "Veyra 0.5.3: she ends only when you really mean it (no more stopping on 'Allah Hafiz' mid-chat) and finishes her goodbye. Hey Veyra hears more accents; Settings shows wake diagnostics. She says done only after checking. Any visual (HTML/SVG), floating over apps. Code via opencode in Termux. Reminders and background checks that speak up. Long-press home opens a see-through card; a floating orb while she runs in the background.",
+  "versionName": "0.5.4",
+  "versionCode": 13,
+  "apk": "apk/veyra-13.apk",
+  "sha256": "07bdfa39aa344a924f36d7d28e0d10b0f8834a1814a4eafc88235b67b28d9aaa",
+  "size": 11828463,
+  "notes": "Veyra 0.5.4: background checks can no longer crash the app and stop in time; an update that arrives while you're talking is told right away; the floating orb can be dragged and gently pulses.",
   "date": "2026-11-23"
 }
