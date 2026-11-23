@@ -1,9 +1,9 @@
 {
-  "versionName": "0.6.5",
-  "versionCode": 24,
-  "apk": "apk/veyra-24.apk",
-  "sha256": "91e5bfd68d18c8c496c51f8009ea95c14577a76a8629deac5b9cd7c71647a1ce",
-  "size": 11943343,
-  "notes": "Background mein har app ki nayi notifications aur emails dekhti hai. Email watch settings hata di.",
+  "versionName": "0.6.6",
+  "versionCode": 25,
+  "apk": "apk/veyra-25.apk",
+  "sha256": "6b78ab65bde6edd34c15232115bda5a0ebf80cca152e6d638a0eb270c0aefdf1",
+  "size": 11959783,
+  "notes": "Aapki zuban mein baat, location, kaam zyada baat kam.",
   "date": "2026-11-23"
 }
