@@ -1,9 +1,9 @@
 {
-  "versionName": "0.6.6",
-  "versionCode": 25,
-  "apk": "apk/veyra-25.apk",
-  "sha256": "6b78ab65bde6edd34c15232115bda5a0ebf80cca152e6d638a0eb270c0aefdf1",
-  "size": 11959783,
-  "notes": "Aapki zuban mein baat, location, kaam zyada baat kam.",
+  "versionName": "0.6.7",
+  "versionCode": 26,
+  "apk": "apk/veyra-26.apk",
+  "sha256": "9afa01415667213d5ccdf6052388183f646c5dc5578371011f0c9caf4b3a7e23",
+  "size": 11976163,
+  "notes": "Notifications ab andar se parhti hai (shade nahi khenchti), jawab/hatana/kholna; zaroori message par khud bata kar jawab ki offer.",
   "date": "2026-11-23"
 }
