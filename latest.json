@@ -1,9 +1,9 @@
 {
-  "versionName": "0.5.0",
-  "versionCode": 9,
-  "apk": "apk/veyra-9.apk",
-  "sha256": "1fdb5ebdd988ecfe135d79a7f2420c3c33a2fbd81181e37aa5ad4a5cb7f5d43e",
-  "size": 11739423,
-  "notes": "Veyra 0.5.0: root first — with root granted, screen reading, tapping, typing, scrolling, opening apps and SMS/call log go through one warm root shell (much faster, works in every app); new 'look' takes a real screenshot so Veyra can see the screen. Opt-in wake word 'Hey Veyra' (on-device, Settings → Wake word). Extended Thinking model shows THINKING while it works. Safer updates: signing certificate, https-only, no downgrade, resumable downloads.",
+  "versionName": "0.5.1",
+  "versionCode": 10,
+  "apk": "apk/veyra-10.apk",
+  "sha256": "89b9f7fb3c2af3084e1e91b85b4a736d1c8125a621598b10cf0e8725b23915bb",
+  "size": 11848974,
+  "notes": "Veyra 0.5.1: memory now really saves and survives restarts (name, preferences, people) \u2014 learned automatically and reviewed after each chat; only a compact core goes into the conversation, the rest is searched when needed. Say 'band karo' / 'bye' to end the session. Screen typing replaces text and a new clear action empties fields without closing apps. Wake word uses less battery in noisy rooms, quieter notification, optional root 'hide mic dot'.",
   "date": "2026-11-23"
 }
