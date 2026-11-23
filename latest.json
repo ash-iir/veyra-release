@@ -1,9 +1,9 @@
 {
-  "versionName": "0.5.8",
-  "versionCode": 17,
+  "versionName": "0.5.9",
+  "versionCode": 18,
   "apk": "apk/veyra-17.apk",
-  "sha256": "4b5017343a2d0f631b8f08efb2a78ff63e0553b7b9b7b00f509bbef527dca47b",
-  "size": 11998394,
-  "notes": "Veyra 0.5.8: greets you right away, no repeated answers, unlocks the phone with your saved PIN, root without limits, and finishes saying goodbye before closing.",
+  "sha256": "7c1adcf6be89e8c46cb75064826e344b4120b5ad00c3cade2fa741cb39764837",
+  "size": 11910575,
+  "notes": "Email watch (Settings > Email watch) and app watch: Veyra speaks only important items, keeps them while you're busy. Encrypted storage. Wake word uses less battery. Root: move Veyra to system. Unlock tool removed.",
   "date": "2026-11-23"
 }
