@@ -1,9 +1,9 @@
 {
-  "versionName": "0.6.7",
-  "versionCode": 26,
-  "apk": "apk/veyra-26.apk",
-  "sha256": "9afa01415667213d5ccdf6052388183f646c5dc5578371011f0c9caf4b3a7e23",
-  "size": 11976163,
-  "notes": "Notifications ab andar se parhti hai (shade nahi khenchti), jawab/hatana/kholna; zaroori message par khud bata kar jawab ki offer.",
+  "versionName": "0.6.8",
+  "versionCode": 27,
+  "apk": "apk/veyra-27.apk",
+  "sha256": "c41679c0ac44eaef97f48bd17a8f40ae6f26a7be5e45229275c79f1a52ff1ce8",
+  "size": 11976207,
+  "notes": "Roz ke kaam (subah/sham) ab sach mein save hote aur waqt par chalte hain; rishte memory mein khud save hote hain.",
   "date": "2026-11-23"
 }
