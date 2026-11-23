@@ -1,9 +1,9 @@
 {
-  "versionName": "0.5.7",
-  "versionCode": 16,
-  "apk": "apk/veyra-16.apk",
-  "sha256": "51ba1198ac19116a06b6b253e10633658182ceab48cbe784c204fe305de41248",
-  "size": 11845387,
-  "notes": "Veyra 0.5.7: the floating orb and small card close when the session ends; Veyra talks more like a person: calm, frank, laughs, thinks out loud, and adapts to you.",
+  "versionName": "0.5.8",
+  "versionCode": 17,
+  "apk": "apk/veyra-17.apk",
+  "sha256": "4b5017343a2d0f631b8f08efb2a78ff63e0553b7b9b7b00f509bbef527dca47b",
+  "size": 11998394,
+  "notes": "Veyra 0.5.8: greets you right away, no repeated answers, unlocks the phone with your saved PIN, root without limits, and finishes saying goodbye before closing.",
   "date": "2026-11-23"
 }
