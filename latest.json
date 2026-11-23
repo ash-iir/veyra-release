@@ -1,9 +1,9 @@
 {
-  "versionName": "0.5.1",
-  "versionCode": 10,
-  "apk": "apk/veyra-10.apk",
-  "sha256": "89b9f7fb3c2af3084e1e91b85b4a736d1c8125a621598b10cf0e8725b23915bb",
-  "size": 11848974,
-  "notes": "Veyra 0.5.1: memory now really saves and survives restarts (name, preferences, people) \u2014 learned automatically and reviewed after each chat; only a compact core goes into the conversation, the rest is searched when needed. Say 'band karo' / 'bye' to end the session. Screen typing replaces text and a new clear action empties fields without closing apps. Wake word uses less battery in noisy rooms, quieter notification, optional root 'hide mic dot'.",
+  "versionName": "0.5.2",
+  "versionCode": 11,
+  "apk": "apk/veyra-11.apk",
+  "sha256": "273093e63c23586e7009424e9b4f7c9543c56f257d534ecef1bdc9b889130f3a",
+  "size": 11746155,
+  "notes": "Veyra 0.5.2: 'band karo' / 'bas' also works in Urdu and Hindi script (\u0628\u0646\u062f \u06a9\u0631\u0648, \u0628\u0633, \u092c\u0902\u0926 \u0915\u0930\u094b). Memory learns names and likes written in Urdu script. Settings > Memory shows the 'review after each chat' switch, the last review result and any save error.",
   "date": "2026-11-23"
 }
