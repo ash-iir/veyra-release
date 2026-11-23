@@ -1,9 +1,9 @@
 {
-  "versionName": "0.6.1",
-  "versionCode": 20,
-  "apk": "apk/veyra-20.apk",
-  "sha256": "edac6a8cb25876edd6af26bff892573cad5bbde92116e9eb6610620a44dd9c83",
-  "size": 11987051,
-  "notes": "Lighter context window: tool results capped, session memory compresses at 64k tokens (faster, cheaper replies). 13 new root actions: read notifications, screen time, foreground/recent apps, storage, temperatures, open link, call, font size, grayscale, night light, screen record, notification shade.",
+  "versionName": "0.6.2",
+  "versionCode": 21,
+  "apk": "apk/veyra-21.apk",
+  "sha256": "0f2b7eed2eff468dffed4e7fa229a8bacc3b53adc1f621781bfd322140fc9ffb",
+  "size": 11926963,
+  "notes": "Compression no longer loses details: Veyra can search every earlier word of the chat. Settings > Memory > Max quality context. Root routines: bedtime, morning, focus, battery, gaming. Tool status now shows 'waiting for your yes' instead of 'failed'.",
   "date": "2026-11-23"
 }
