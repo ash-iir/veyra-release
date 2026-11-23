@@ -1,9 +1,9 @@
 {
-  "versionName": "0.6.9",
-  "versionCode": 28,
-  "apk": "apk/veyra-28.apk",
-  "sha256": "8887c6a1b404fa96514486f8780a418880c50b821047bd9a0f89dc12c03f5736",
-  "size": 11976499,
-  "notes": "Naya prompt: kaam pehle, nateeja check kar ke hi 'ho gaya'. Internet search (web_search) shamil.",
+  "versionName": "0.7.0",
+  "versionCode": 29,
+  "apk": "apk/veyra-29.apk",
+  "sha256": "472662e92df16291571d5045c26892b73d70c75c6a04787a9d535a368941fabd",
+  "size": 12097580,
+  "notes": "Awaz mein jazbaat: mood ke hisaab se hansna, udaas, gussa. opencode sessions parhna. Kaam bata kar chup nahi hogi.",
   "date": "2026-11-23"
 }
